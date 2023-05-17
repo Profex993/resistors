@@ -1,0 +1,7 @@
+Vymyslete vlastní gramatiku pro zadání informací o elektrickém obvodu,
+ ve kterém jsou zapojeny odpory sériově a paralelně. Uživatel zadá celkové napětí zdroje v obvodu,
+  velikosti jednotlivých odporů a také informace o tom, jak jsou tyto odpory zapojeny. Program vypočítá
+   velikost elektrického proudu v jednotlivých částech obvodu.
+
+V tomto případě je třeba vymyslet nějaký vhodný způsob textové reprezentace zapojení odporů do obvodu.
+ Je také nutné tento princip řádně objasnit uživateli.
