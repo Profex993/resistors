@@ -1,6 +1,6 @@
-package Main;
+package main;
 
-import Circuit.CircuitResistor;
+import circuit.CircuitResistor;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

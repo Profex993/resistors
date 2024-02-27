@@ -1,4 +1,4 @@
-package Circuit;
+package circuit;
 public class CircuitResistor {
     private int resistor1, resistor2;
     private double currentS1;
